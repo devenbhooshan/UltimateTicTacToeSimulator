@@ -1,3 +1,0 @@
-javac file1.java 
-java file1 > output.txt
-
